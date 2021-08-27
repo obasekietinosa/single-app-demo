@@ -1,0 +1,11 @@
+.myh {
+    height: calc(100vh - 225px);  
+  }
+  
+  .myh p{
+    margin-top: .5rem;
+  }
+
+  .panel {
+    padding: 10px;
+  }

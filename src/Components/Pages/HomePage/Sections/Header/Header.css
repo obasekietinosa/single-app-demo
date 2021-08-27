@@ -1,0 +1,21 @@
+.Header, .hero {
+	color: var(--white);
+	background-size: cover;
+	background-color: var(--black);
+}
+
+.Header h1 {
+	font-size: 2.5rem;
+}
+
+.Header h2 {
+	font-size: 1.5rem;
+}
+
+.Header h3 {
+	font-size: 1rem;
+}
+
+.Header * {
+	margin: 2px 0;
+}

@@ -1,0 +1,14 @@
+.PostPreview h3 {
+  font-family: var(--heading-font);
+}
+
+.PostPreview .title {
+    text-decoration: none;
+    color: inherit;
+}
+
+.PostPreview span {
+  background: var(--accent);
+  padding: 5px;
+  font-size: 10px;
+}

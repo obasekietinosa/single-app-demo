@@ -1,0 +1,30 @@
+.CategoryPreview {
+  width: 50%;
+  padding: 15px;
+  flex: 1 50%;
+}
+
+.CategoryPreview h3 {
+  font-family: var(--heading-font);
+}
+
+.CategoryPreview a {
+  border-bottom: none;
+}
+
+.CategoryPreview .title {
+    text-decoration: none;
+    color: inherit;
+}
+
+.CategoryPreview span {
+  background: var(--accent);
+  padding: 5px;
+  font-size: 10px;
+}
+
+@media screen and (min-width: 48em) {
+  .CategoryPreview {
+    flex: 1 25%;
+  }
+}

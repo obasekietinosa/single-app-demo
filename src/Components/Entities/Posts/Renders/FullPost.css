@@ -1,0 +1,48 @@
+.wp-content p:first-of-type:first-letter {
+  color: var(--accent);
+  /* font-family: Georgia; */
+  initial-letter: 2;
+  float: left;
+  /* font-family: Georgia; */
+  font-size: 75px;
+  line-height: 60px;
+  padding-top: 4px;
+  padding-right: 8px;
+  padding-left: 3px;
+}
+
+.wp-content img {
+  height: auto;
+  width: 100%;
+  border-radius: 10px;
+  margin-bottom: 5px;
+}
+
+.wp-content figure {
+  text-align: center;
+  font-size: 80%;
+  border-bottom: solid 1px;
+}
+
+.FullPost p {
+  line-height: 1.5;
+}
+
+.FullPost header {
+  background-color: var(--black);
+  color: var(--off-white);
+}
+
+.FullPost header img {
+  border-radius: 10px;
+}
+
+.FullPost span.category {
+  border-radius: 10px;
+  border: solid 1.5px;
+  padding: 0 5px;
+  border-radius: 10px;
+  border: solid 1.5px;
+  padding: 0 5px;
+  margin-bottom: 10px;
+}

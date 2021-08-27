@@ -1,0 +1,8 @@
+.CategoryDetails header {
+  background-color: var(--black);
+  color: var(--off-white);
+}
+  
+.CategoryDetails header img {
+  border-radius: 10px;
+}

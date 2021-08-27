@@ -1,0 +1,14 @@
+.Stack {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+@media (min-width: 767px) {
+  .Stack {
+    flex-direction: row;
+  }
+}
